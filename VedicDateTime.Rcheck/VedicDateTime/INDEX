@@ -1,0 +1,6 @@
+dummyFunction1          Returns the value passed as it is
+dummyFunction2          Returns the summed up value of the passed value
+                        twice
+dummyFunction3          Returns the value passed multiplicand by 3
+dummyFunction4          Returns the value passed multiplicand by 7
+dummyFunction5          Returns the value passed divided by 3
